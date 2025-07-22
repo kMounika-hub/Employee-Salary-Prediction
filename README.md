@@ -33,14 +33,19 @@ This project predicts employee salaries based on user inputs like experience, ed
 ## 📂 Project Structure
 
 ├── app.py # Streamlit app
+
 ├── model.pkl # Trained ML model (via joblib)
+
 ├── dataset.csv # Input dataset used for training
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 ---
 
 pip install -r requirements.txt
+
 streamlit run app.py
 
 📊 Dataset
@@ -77,8 +82,3 @@ Streamlit for the easy deployment.
 
 Open-source community for inspiration and resources.
 
----
-
-If you already have a GitHub repository link for this app, please share it, and I can tailor the README specifically to your repo’s structure.
-
-Would you like me to help generate badges (e.g., Python version, license, deployment status) for the README too?
