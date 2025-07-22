@@ -73,9 +73,11 @@ OneHotEncoder for categorical features
 StandardScaler for numerical features
 
 Saved using joblib and loaded in the app.py script for prediction.
+
 📸 App Preview
 
 Simple user-friendly interface for salary prediction.
+
 ✨ Acknowledgments
 Thanks to:
 
