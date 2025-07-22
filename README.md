@@ -2,9 +2,6 @@
 # 💼 Employee Salary Prediction using Machine Learning
 
 This project predicts employee salaries based on user inputs like experience, education, role, and location using a trained machine learning model. The app is built using **Streamlit** and deployed at:
-
-🔗 **Live App**: [employee-salary-prediction1.streamlit.app](https://employee-salary-prediction1.streamlit.app/)
-
 ---
 
 ## 📌 Features
