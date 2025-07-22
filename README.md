@@ -44,6 +44,7 @@ This project predicts employee salaries based on user inputs like experience, ed
 
 ---
 #Installestion
+
 pip install -r requirements.txt
 
 streamlit run app.py
